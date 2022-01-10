@@ -1,3 +1,3 @@
-# D0017E2021 \\
-Labs for programming in C \\
+# D0017E2021 \
+Labs for programming in C \
 peepeepoopoo
